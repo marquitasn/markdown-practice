@@ -1,5 +1,5 @@
 # Markdown-Practice
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas integer eget aliquet nibh praesent tristique magna sit.
+> **Lorem ipsum** dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas integer eget aliquet nibh praesent tristique magna sit.
 ### Ipsum suspendisse ultrices gravida dictum fusce ut placerat orci
 - Enim 
 - nulla 
