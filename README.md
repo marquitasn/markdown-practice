@@ -1,24 +1,22 @@
 # Markdown-Practice
-> My name is **Marquita Sakyi-Nyante**, and I'm a junior at *UNCW*.
-My major is Information Technology, with a concentration in Cybersecurity.
-I am excited to learn more about **Github**.
-### My Interests Include... 
-- Technology
-- Music
-- Art
-- Singing
-- Playing Guitar
-- Design
-- Cybersecurity
-- Ethics
-- Fashion
-- Communication
-- Food
-### Important Academic Skills
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas integer eget aliquet nibh praesent tristique magna sit.
+### Ipsum suspendisse ultrices gravida dictum fusce ut placerat orci
+- Enim 
+- nulla 
+- aliquet 
+- porttitor 
+- lacus 
+- luctus 
+- accumsan 
+- tortor 
+- posuere.
+### Sapien nec sagittis aliquam malesuada bibendum
 ```
-1. Teamwork
-2. Adaptability
-3. Critical Thinking 
-4. Trouble-shooting
-5. Perseverance
+1. Nibh 
+2. sit 
+3. amet 
+4. commodo 
+5. nulla 
+6. facilisi 
+7. nullam
 ```
